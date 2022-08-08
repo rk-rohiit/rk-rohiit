@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rk-rohiit
+- 👋 Hi, I’m Rohit Kumar
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning B.C.A (Bachelor of Computer Application)
 - 💞️ I’m looking to collaborate on making webpages and design
