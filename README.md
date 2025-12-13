@@ -46,28 +46,7 @@ I'm a passionate frontend developer who loves crafting beautiful, intuitive user
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## 📊 GitHub Statistics
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rk-rohiit&theme=vue&hide_border=false&background=ffffff&ring=6366f1&fire=6366f1&currStreakLabel=000000&sideNums=000000&sideLabels=000000&dates=000000" alt="GitHub Streak Stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api?username=rk-rohiit&show_icons=true&theme=vue&hide_border=false&bg_color=ffffff&title_color=6366f1&icon_color=6366f1&text_color=000000" alt="GitHub Stats" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rk-rohiit&layout=compact&theme=vue&hide_border=false&bg_color=ffffff&title_color=6366f1&text_color=000000" alt="Top Languages" width="49%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rk-rohiit&bg_color=ffffff&color=000000&line=6366f1&point=6366f1&area=true&hide_border=false" alt="Contribution Graph" width="100%" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-## 🏆 Achievements
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rk-rohiit&theme=flat&no-frame=false&row=1&column=6&margin-w=15&margin-h=15)
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
